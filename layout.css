@@ -1,0 +1,15 @@
+body {
+  margin: auto 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+div.contact p {
+  margin: 5px auto;
+}
+
+p {
+  margin: 10px auto;
+}
